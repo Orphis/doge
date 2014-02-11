@@ -5,8 +5,8 @@ Please extend this file with more lvl=100 shibe wow.
 
 """
 
-import random
-from collections import deque
+port random
+om collections import deque
 
 
 class DogeDeque(deque):
