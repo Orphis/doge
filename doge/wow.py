@@ -67,7 +67,8 @@ class DogeDeque(deque):
 
 PREFIXES = DogeDeque(
     'wow', 'such', 'very', 'so much', 'many', 'lol', 'beautiful',
-    'all the', 'the', 'most', 'very much', 'pretty', 'so',
+    'all the', 'the', 'most', 'very much', 'pretty', 'so', 'rolf',
+    'lulz', 'foo' 'bar' 'bla'
 )
 
 # Please keep in mind that this particular shibe is a terminal hax0r shibe,
